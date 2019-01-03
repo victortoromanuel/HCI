@@ -2,7 +2,7 @@ Bienvenido al curso de diseño de interfaces humano computador.
 
 Esta es la rama donde usted deberá subir cada una de las actividades del curso.
 
-Nombre de la rama: hci-toro
+Nombre de la rama: hci-uribe
 
 * Tener precaución al momento de subir archivos para no afectar los existentes o los de sus demás compañeros
 
