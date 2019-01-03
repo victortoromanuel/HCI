@@ -7,17 +7,17 @@ Repositorio del curso diseño interfaces humano - computador y servicios web
 
 Comandos básicos:
 
-git --version (Para conocer la versión de Git)
-git init
-git add 
-git push
-git commit
-git pull
+*git --version (Para conocer la versión de Git)
+*git init
+*git add 
+*git push
+*git commit
+*git pull
 
 Comandos de revisión:
 
-git log
-git checkout
+*git log
+*git checkout
 
 
 
