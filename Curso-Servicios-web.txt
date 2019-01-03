@@ -1,8 +1,8 @@
 Bienvenido al curso de servicios web. 
 
-Esta es rama donde usted deberá subir cada una de sus actividades 
+Esta es la rama donde usted deberá subir cada una de las actividades del curso.
 
-Nombre de la rama: web-escobar
+Nombre de la rama: web-otaya
 
 * Tener precaución al momento de subir archivos para no afectar los existentes o los de sus demás compañeros
 
