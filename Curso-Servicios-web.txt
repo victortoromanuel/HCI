@@ -1,9 +1,9 @@
 Bienvenido al curso de servicios web. 
 
-Esta es rama donde usted deber· subir cada una de sus actividades 
+Esta es la rama donde usted deber√° subir cada una de las actividades del curso.
 
 Nombre de la rama: web-escobar
 
-* Tener precauciÛn al momento de subir archivos para no afectar los existentes o los de sus dem·s compaÒeros
+* Tener precauci√≥n al momento de subir archivos para no afectar los existentes o los de sus dem√°s compa√±eros
 
 
