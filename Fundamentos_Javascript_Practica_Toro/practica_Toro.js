@@ -42,16 +42,21 @@ function main(){
 	var n1 = cad1.length;
 	var n2 = cad2.length;
 	if(n1 != 0){
-		document.getElementById("enterColorCodeHexa").value = rgb(cad1);
+		var hexa = rgb(cad1);
+		document.getElementById("enterColorCodeHexa").value = hexa;
 	}else{
 		document.getElementById("enterColorCodeRGB").value = hexa(cad2);
 	}
+	var hashtag = "#";
+	hashtag += hexa;
+	document.getElementById("color").style.backgroundColor = hashtag;
+	document.getElementById("colour").style.backgroundColor = hashtag;
 }
 
 function color(){
 	var cad = document.getElementById("enterColorCodeHexa").value;
 	var hashtag = "#";
-	hashtag += cad
+	hashtag += cad;
 	document.getElementById("color").style.backgroundColor = hashtag;
 	document.getElementById("colour").style.backgroundColor = hashtag;
 }
